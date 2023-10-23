@@ -4,8 +4,8 @@
 menu:
 - {name: 'Projects', url: ''}
 # - {name: 'Blog',     url: 'blog'}
-# - {name: 'About',    url: 'about'}
-# - {name: 'Contact',  url: 'contact'}
+- {name: 'About',    url: 'about'}
+- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
@@ -13,9 +13,9 @@ menu:
 projects:
 - {name: 'Inspection APP',   url: 'proj_inspection'}
 - {name: 'PIVOT Smarthone Experience',   url: 'proj_pivot'}
-# - {name: 'Project Three', url: 'proj-3'}
-# - {name: 'Project Four',  url: 'proj-4'}
-# - {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Luggage Arrival Notification', url: 'proj_mysticker'}
+- {name: 'Personal Mobility Device',  url: 'proj_yomoo'}
+- {name: 'Leaply',  url: 'proj_leaply'}
 
 #-------------------------------
 # Contact Section
