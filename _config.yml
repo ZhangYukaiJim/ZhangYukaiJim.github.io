@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Yukai ZHANG"
+title:		   "Yukai Zhang"
 description: "Personal website of Yukai"
-author:      "Yukai ZHANG"
+author:      "Yukai Zhang"
