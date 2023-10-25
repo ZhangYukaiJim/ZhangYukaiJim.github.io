@@ -10,6 +10,8 @@ Leaply is a tracker designed to prevent dementia patients from getting lost. It 
 The idea originates from our field research with a dementia patient and her husband in Hong Kong. We found through interviews and shadowing that one of main concern of taking care of a dementia patient is the risk of the patient getting lost during outdoor activities. 
 
 ![features](../assets/img/projects/proj_leaply/feature.png)
+
+**Prototypes**
 ![cases](../assets/img/projects/proj_leaply/cases.jpg)
 ![inside](../assets/img/projects/proj_leaply/inside.jpg)
 
